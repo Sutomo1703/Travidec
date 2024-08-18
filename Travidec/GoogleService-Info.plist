@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>362138567146-cdba4ea40liiq5s8m7sov92s4ud18c8o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.362138567146-cdba4ea40liiq5s8m7sov92s4ud18c8o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDZK6TEM8Bl4Rbg8Zf4lpg52w8VLzspfyI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>362138567146</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>id.ac.petra</string>
+	<key>PROJECT_ID</key>
+	<string>travidec-978b6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>travidec-978b6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:362138567146:ios:8fcd220bb19084a5c73293</string>
+</dict>
+</plist>
